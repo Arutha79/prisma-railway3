@@ -1,7 +1,7 @@
 {
   "name": "prisma-railway",
   "version": "1.0.0",
-  "description": "Serveur Prisma Express prêt pour Railway",
+  "description": "Serveur Express pour Prisma sur Railway",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
